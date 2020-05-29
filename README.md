@@ -43,7 +43,7 @@
 
 
 
-【短连接接口】
+【短连接接口】<br>
 #####1，好友添加请求<br>
 /api/addFriends
 <br>请求参数：user_id, friend_user_id
