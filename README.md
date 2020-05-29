@@ -44,7 +44,7 @@
 
 
 【短连接接口】
-#####1，好友添加请求
+#####1，好友添加请求<br>
 /api/addFriends
-请求参数：user_id, friend_user_id
-resful 格式返回结果
+<br>请求参数：user_id, friend_user_id
+<br>resful 格式返回结果
