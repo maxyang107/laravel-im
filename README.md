@@ -9,7 +9,7 @@
 
 ## 关于项目
 
-基于Laravel框架，结合Gateway-Worker实现的IM系统
+基于Laravel框架，结合Gateway-Worker实现的IM系统（陆续更新中）
 
 ## 现已完成功能
 【长连接接口】<br><br>
